@@ -1,4 +1,5 @@
 # topic-ideas
+## 20 Sept 2017
 
 Tim
 * Intro to programming in JS
