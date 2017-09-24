@@ -3,18 +3,18 @@
 		"name": "main",
 		"title": "Main Menu",
 		"links": [
-      {
-        "text": "Events",
-        "url": "/events"
-      },
 			{
-        "text": "Topics",
-        "url": "/topics"
-      },
-      {
-        "text": "People",
-        "url": "/people"
-      }
-    ]
-  }
+				"text": "Events",
+				"url": "/events"
+			},
+			{
+				"text": "Topics",
+				"url": "/topics"
+			},
+			{
+				"text": "People",
+				"url": "/people"
+			}
+		]
+	}
 ]
