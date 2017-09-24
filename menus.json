@@ -1,29 +1,19 @@
 [
-  {
-    "name": "main",
-    "title": "Main Menu",
-    "links": [
+	{
+		"name": "main",
+		"title": "Main Menu",
+		"links": [
       {
         "text": "Events",
         "url": "/events"
       },
+			{
+        "text": "Topics",
+        "url": "/topics"
+      },
       {
         "text": "People",
-        "url": "/people",
-        "links": [
-          {
-            "text": "Josh Wulf",
-            "url": "/people/jwulf"
-          },
-          {
-            "text": "Tim Marwick",
-            "url": "/people/triyuga"
-          },
-          {
-            "text": "Ben O'Neal",
-            "url": "/people/benoneal"
-          }
-        ]
+        "url": "/people"
       }
     ]
   }
