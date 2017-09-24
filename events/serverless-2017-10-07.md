@@ -1,7 +1,8 @@
-# Serverless
+## Serverless
 ### 7th Oct 2017
-### Hosted by The Legendary Josh Wulf, as see on the Internet.
-### ft. Ben from Insight Games & Tim from Magikcraft
+#### Hosted by The Legendary Josh Wulf, as see on the Internet.
+#### Featuring
+##### Ben from Insight Games & Tim from Magikcraft
 
 Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
