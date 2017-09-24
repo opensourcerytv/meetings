@@ -1,6 +1,6 @@
 ## Serverless
 ### 7th Oct 2017
-#### The ['../people/jwulf.md'](Legendary Josh Wulf, as see on the Internet), ft. Ben from Insight Games & Tim from Magikcraft
+#### The [Legendary Josh Wulf, as see on the Internet]('../people/jwulf.md'), ft. Ben from Insight Games & Tim from Magikcraft
 
 Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
