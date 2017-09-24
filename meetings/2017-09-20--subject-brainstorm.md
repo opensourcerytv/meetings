@@ -1,5 +1,4 @@
-# Open Sourcery Subject Brainstorm
-### 20 Sept 2017
+# Open Sourcery Subject Brainstorm - 20 Sept 2017
 
 ## Actionables
 
@@ -7,7 +6,7 @@
 * HTML Site up on opensourcrytv.github.io
 * Create an Eventbrite 
 
-**Pitch Pages**
+**Pitch Pages for next events**
 * Serverless - **Josh**
 * React from the Beginning - **Ben**
 * GraphQL Severside in NodeJS - **Tim**
