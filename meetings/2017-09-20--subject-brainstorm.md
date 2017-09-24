@@ -3,12 +3,11 @@
 
 ## Actionables
 
-### HTML Site up on opensourcrytv.github.io
+* Meet Sunday 24th 1-5pm at The Edge -- **Ben & Tim (Josh can't make it)**
+* HTML Site up on opensourcrytv.github.io
 * Create an Eventbrite 
-* Meet Sunday 24th 1-5pm at The Edge -- Ben & Tim (Josh can't make it)
 
-### Pitch Pages
-
+**Pitch Pages**
 * Serverless - **Josh**
 * React from the Beginning - **Ben**
 * GraphQL Severside in NodeJS - **Tim**
