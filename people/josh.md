@@ -1,4 +1,5 @@
-### The Legendary Josh Wulf, as seen of the Internet
+### Josh Wulf
+##### The Legendary, as seen of the Internet
 
 ![josh-headshot](https://raw.githubusercontent.com/opensourcerytv/opensourcery-content/master/images/josh.jpg)
 
