@@ -1,5 +1,5 @@
 ### Tim Marwick
-#### Magikcraft!
+##### Magikcraft!
 
 ![tim-headshot](https://raw.githubusercontent.com/opensourcerytv/opensourcery-content/master/images/tim.jpg)
 
